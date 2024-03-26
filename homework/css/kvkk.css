@@ -1,0 +1,66 @@
+body{
+    background-color:#3d3d3d;}
+
+
+.sağ{
+    box-sizing: border-box;
+    float: right;
+    margin: 0;
+    width: 50%;
+}
+table {
+    width: 80%;
+    padding-left: 10%;
+}
+.box{
+    width: 50%;
+    height: 17%;
+    margin: auto;
+    position: relative;
+    background-color: rgb(148, 148, 148);
+    padding-top: 2%; 
+    padding-bottom: 5.5%;
+    text-align: center;
+    border-radius: 12px;
+    
+
+}
+.box-2{
+    width: 50%;
+    margin: auto;
+    position: relative;
+    text-align: left;
+    
+}
+.tablo{
+    text-align: left;
+    float: left;
+    
+}
+p{
+    color: aliceblue;
+}
+
+h3{
+    color: aliceblue;
+}
+h2{
+    color: aliceblue;
+}
+
+a:link {
+    color:  rgb(235, 235, 235);    
+    text-decoration: none;
+}
+a:visited {
+    color: rgb(235, 235, 235);   
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(197, 114, 46);
+    background-color: #8f8f8f;
+    text-decoration: none;
+}
+a:active {
+    color: black;    
+}
